@@ -95,6 +95,12 @@ sdl2-example/
 
 ---
 
+##Demo Video
+
+[Screencast from 2026-08-15 10-27-04.webm](https://github.com/user-attachments/assets/c2c7f309-3444-45ac-acfa-3f43f3b85b20)
+
+---
+
 ## Class Architecture & Relationships
 
 The project features **9 core classes**:
